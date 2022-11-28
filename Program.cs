@@ -1,6 +1,21 @@
 ﻿// МЕТОД_1 - принимает от пользователя строки/слова.
+string ReadData(string msg) // Принимает данные от пользователя
+{
+    Console.Write(msg);
+    string text = Console.ReadLine() ?? "0"; // конструкция ??"0" нивелирует ошибку NULL
+    return text;
+}
 
 // МЕТОД_2 - формирует пользовательский массив из полученных строк/слов.
+string[] FillArray(int length) // Создаёт массив.
+{
+    string[] array = new string[length];
+    for (int i = 0; i < length; i++)
+    {
+        array[i] = ReadData("Введите текст: ");
+    }
+    return array;
+}
 
 // МЕТОД_3 - выводт на экран сформированный  массив.
 
