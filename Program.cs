@@ -18,8 +18,37 @@ string[] FillArray(int length) // Создаёт массив.
 }
 
 // МЕТОД_3 - выводт на экран сформированный  массив.
+void PrintArray(string[] array)
+{
+    if (array.Length == 0)
+    {
+        Console.WriteLine("Массив пустой.");  // если новый массив пустой - выводится сообщение
+    }
+    else
+    {
+        Console.Write("["); for (int i = 0; i < array.Length - 1; i++) //первое значение массива
+        {
+            Console.Write(array[i] + ", "); //промежуточные значение
+        }
+        Console.WriteLine(array[array.Length - 1] + "]"); //последнее значение
+    }
+}
 
 // МЕТОД_4 - сортирует элементы 1го массива и формирует новый массив (длина которых <= заданного значения)
+string[] SortArray(string[] array, int lengthArray, int length) // Создаёт новый массив по условию задачи.
+{
+    string[] sortArray = new string[0];
+    for (int i = 0; i < lengthArray; i++)
+    {
+        if (array[i].Length <= length)
+        {
+            Array.Resize(ref sortArray, sortArray.Length + 1);
+            sortArray[sortArray.Length - 1] = array[i];
+        }
+    }
+    return sortArray;
+}
+
 
 // МЕТОД_5 - передаёт новый массив в Метод_3.
 
