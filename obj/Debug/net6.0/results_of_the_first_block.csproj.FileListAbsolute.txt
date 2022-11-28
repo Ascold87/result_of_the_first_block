@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\bin\Debug\net6.0\results_of_the_first_block.exe
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\bin\Debug\net6.0\results_of_the_first_block.deps.json
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\bin\Debug\net6.0\results_of_the_first_block.runtimeconfig.json
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\bin\Debug\net6.0\results_of_the_first_block.dll
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\bin\Debug\net6.0\results_of_the_first_block.pdb
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.AssemblyInfo.cs
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.dll
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\refint\results_of_the_first_block.dll
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.pdb
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\results_of_the_first_block.genruntimeconfig.cache
+C:\Users\User\Desktop\QA\GeekBrains\06 results_of_the_first_block\results_of_the_first_block\obj\Debug\net6.0\ref\results_of_the_first_block.dll
